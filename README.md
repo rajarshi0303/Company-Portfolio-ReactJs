@@ -3,8 +3,8 @@
 Welcome to the Company Portfolio project! This is a web application developed using ReactJS to showcase the portfolio of a company. It features various sections like home, about, services, products, and contact information. The project aims to provide a modern and responsive interface for displaying company details effectively.
 
 <p float="left">
-<img src="https://github.com/rajarshi0303/Company-Portfolio-ReactJs/assets/128988468/774c7047-db3b-4792-b7e4-eaba3394b1f6" width="550" height="600" hspace="10" />
-<img src="https://github.com/rajarshi0303/Company-Portfolio-ReactJs/assets/128988468/b0d48fc0-4927-48a6-a540-1cfbeb9e72f0" width="380" height="600" />
+<img src="https://github.com/rajarshi0303/Company-Portfolio-ReactJs/assets/128988468/774c7047-db3b-4792-b7e4-eaba3394b1f6" width="300" height="600" hspace="10" />
+<img src="https://github.com/rajarshi0303/Company-Portfolio-ReactJs/assets/128988468/b0d48fc0-4927-48a6-a540-1cfbeb9e72f0" width="300" height="600" />
 <p>
 <img src="https://github.com/rajarshi0303/Company-Portfolio-ReactJs/assets/128988468/1605d2e7-01c3-4701-8655-349d0a758d76" width="550" height="600" />
 <img src="https://github.com/rajarshi0303/Company-Portfolio-ReactJs/assets/128988468/2123ceb4-5e2a-4c9a-9676-932196201b3d" width="400" height="600" hspace=10" />
