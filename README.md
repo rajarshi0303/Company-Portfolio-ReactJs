@@ -39,10 +39,20 @@ npm install
 ### Running the Application
 Start the JSON Server:
 ```shell
-json-server --watch db.json
+npx json-server --watch db.json
 ```
 In a new terminal, start the React application:
 ```shell
 npm run dev
 ```
 Open your browser and visit http://localhost:3000
+
+## Usage
+* Home: Introduces the company with a brief overview and attractive visuals.
+* About: Provides detailed information about the company, its mission, and values.
+* Services: Lists the services offered by the company with descriptions.
+* Products: Showcases companys products with images and descriptions.
+* Contact: Allows users to contact the company through a form or direct links.
+
+## Contributing
+We welcome contributions to this project to enhance functionality and improve it. Please create pull requests to share your improvements and bug fixes.
