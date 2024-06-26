@@ -1,0 +1,216 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "title": "designing",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "2",
+      "title": "development",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "3",
+      "title": "management",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "4",
+      "title": "marketing",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    }
+  ],
+  "faq": [
+    {
+      "id": "1",
+      "title": "Optio maiores eligendi molestiae totam dolores similique?",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "2",
+      "title": "Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "3",
+      "title": "Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "4",
+      "title": "Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "5",
+      "title": "Tempus quam pellentesque nec nam aliquam sem et tortor consequat?",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "type": "app",
+      "url": "/public/images/portfolio/app-1.jpg",
+      "title": "Software Development",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "2",
+      "type": "app",
+      "url": "/public/images/portfolio/app-2.jpg",
+      "title": "App Development",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "3",
+      "type": "app",
+      "url": "/public/images/portfolio/app-3.jpg",
+      "title": "designing",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "4",
+      "type": "product",
+      "url": "/public/images/portfolio/product-1.jpg",
+      "title": "Product Management",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "5",
+      "type": "product",
+      "url": "/public/images/portfolio/product-2.jpg",
+      "title": "Product",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "6",
+      "type": "product",
+      "url": "/public/images/portfolio/product-3.jpg",
+      "title": "lamp",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    {
+      "id": "7",
+      "type": "brand",
+      "url": "/public/images/portfolio/branding-1.jpg",
+      "title": "Marketing",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    
+    {
+      "id": "8",
+      "type": "brand",
+      "url": "/public/images/portfolio/branding-3.jpg",
+      "title": "branding",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    },
+    
+    {
+      "id": "9",
+      "type": "brand",
+      "url": "/public/images/portfolio/branding-2.jpg",
+      "title": "brand",
+      "body": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate"
+    }
+  ],
+  "team": [
+    {
+      "id": "1",
+      "url": "/public/images/team/team-1.jpg",
+      "name": "Walter White",
+      "position": "Chief Executive Officer"
+    },
+    {
+      "id": "2",
+      "url": "/public/images/team/team-2.jpg",
+      "name": "Sarah Jhonson",
+      "position": "Product Manager"
+    },
+    {
+      "id": "3",
+      "url": "/public/images/team/team-3.jpg",
+      "name": "William Anderson",
+      "position": "CTO"
+    },
+    {
+      "id": "4",
+      "url": "/public/images/team/team-4.jpg",
+      "name": "Amanda Jepson",
+      "position": "Accountant"
+    }
+  ],
+  "clients": [
+    {
+      "id": "1",
+      "url": "/public/images/clients/client-1.png"
+    },
+    {
+      "id": "2",
+      "url": "/public/images/clients/client-2.png"
+    },
+    {
+      "id": "3",
+      "url": "/public/images/clients/client-3.png"
+    },
+    {
+      "id": "4",
+      "url": "/public/images/clients/client-4.png"
+    },
+    {
+      "id": "5",
+      "url": "/public/images/clients/client-5.png"
+    },
+    {
+      "id": "6",
+      "url": "/public/images/clients/client-6.png"
+    },
+    {
+      "id": "7",
+      "url": "/public/images/clients/client-3.png"
+    },
+    {
+      "id": "8",
+      "url": "/public/images/clients/client-8.png"
+    },
+    {
+      "id": "9",
+      "url": "/public/images/clients/client-5.png"
+    },
+    {
+      "id": "10",
+      "url": "/public/images/clients/client-3.png"
+    },
+    {
+      "id": "11",
+      "url": "/public/images/clients/client-6.png"
+    },
+    {
+      "id": "12",
+      "url": "/public/images/clients/client-7.png"
+    }
+  ],
+  "contact": [
+    {
+      "id": "d063",
+      "name": "Raj",
+      "email": "Raj@gmail.com",
+      "subject": "Hello",
+      "message": "dfgfdfgfd fgffgfggf"
+    },
+    {
+      "id": "8c2f",
+      "name": "Raj",
+      "email": "Raj@gmail.com",
+      "subject": "Hello",
+      "message": "dfgfdfgfd fgffgfggf"
+    }
+  ],
+  "subscribe": [
+    {
+      "id": "7182",
+      "email": "rajarshi0303@gmail.com"
+    }
+  ]
+}
