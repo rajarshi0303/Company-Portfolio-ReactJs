@@ -54,7 +54,7 @@ In a new terminal, start the React application:
 ```shell
 npm run dev
 ```
-Open your browser and visit http://localhost:3000
+Open your browser and visit http://localhost:5173
 
 ## Usage
 * Home: Introduces the company with a brief overview and attractive visuals.
